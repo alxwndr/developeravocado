@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/alxwndr/developeravocado/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<a class="twitter-timeline" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/dev_avocado?ref_src=twsrc%5Etfw">Tweets by dev_avocado</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
